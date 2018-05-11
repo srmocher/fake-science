@@ -11,3 +11,5 @@ will be stored in a file
 Run the script `cc_solr.py` with parameters modified accordingly.
 
 3. TODO - compare existing fake training data to data pushed to Solr from CC to extract larger fake training set.
+
+4. TODO - add the Keras code for CNN/LSTM classifiers using Google News word2vec model for classifying real/fake articles.
