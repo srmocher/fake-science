@@ -1,0 +1,63 @@
+Study finds climate change is increasing length of wildfire seasons across globe
+The length of wildfire seasons across the globe and the burnable areas of Earth’s surface have drastically increased in the past three decades due to climate change, according to a groundbreaking new study supported by years of research from the U.S. Forest Service's Missoula Fire Sciences Laboratory.
+
+In a paper published Tuesday in the international journal Nature Communications, a team of researchers concluded that from 1979 to 2013, fire weather seasons have lengthened across 18.39 million square miles of Earth’s vegetated surface, resulting in an 18.7 percent increase in the global average fire season length. The global burnable area affected by long fire seasons has doubled in that time, and from 1996 until 2013 there has been a 53.4 percent increase in the frequency of long fire seasons.
+
+One of the study’s lead authors, Matt Jolly, is a Fire Sciences Lab ecologist at the Rocky Mountain Research Station in Missoula. Inside the cavernous facility, scientists conduct cutting-edge research on wildland fires using wind tunnels and massive burn chambers. Jolly spent four years of his life immersed in computer models and digging through historical climate and fire data to assist the study.
+
+“Our intent was to develop a way where we could basically explore how cumulative weather changes impact global fire,” he explained.
+
+Wildfire activity is driven by three key factors: Fuels, sources of ignition and weather. Weather is by far the most variable factor, and climate change has created conditions that are perfectly conducive to fire: Higher temperatures, lower humidity, less days with rainfall and higher surface wind speeds.
+
+“So we separated weather from the other driving factors in order to isolate the impacts of climate change on wildland fire potential,” Jolly said.
+
+There have been many published papers on regional wildfire behaviors, but no previous work has put weather’s effect on fire in a global context over such a long period of time.
+
+***
+
+The team looked at how the weather conditions over the past 35 years have essentially increased the number of days each year conditions are right for fires to spread rapidly, according to a broad metric based on the U.S. Burning Index, the Canadian Fire Weather Index and the Austrialian Forest Fire Danger Index. All of those systems measure variables like temperature, humidity, rainfall defecit and windspeed to calculate the severity of burning conditions, or how fast fires might spread under certain conditions.
+
+“What we wanted is a metric that we could apply equally across the whole globe,” Jolly explained. “The change we found comes in two forms: steady long-term increase in fire season length as limited by weather and an increase in the frequency of extremely long fire seasons.”
+
+The researchers found there are long-term steady increases in fire seasons in places that normally don’t see many fires, like the southeastern U.S., especially the coastal plains of Florida.
+
+“That area has seen some extremely large fires in the last decade, even though that doesn’t get a lot of press,” Jolly said.
+
+All continents except Australia and most vegetation types except boreal forests showed significant increases in the fire weather season length, however, those excepted areas are seeing unusually long fire seasons as well.
+
+Over the past several decades, the U.S. has experienced a significant increase in large wildfire frequency and duration, with the greatest increases observed in the temperate coniferous forests of the Northern Rockies, according to the study. These trends are widely attributed to shifts toward earlier snowmelt timing.
+
+***
+
+The study is momentous because wildfires play a critical role in terrestrial, atmospheric and economic systems that affect billions of people.
+
+
+Every year, an estimated 864 million acres of land burn in wildfires across the globe, and carbon dioxide emissions from fires can exceed 50 percent of fossil fuel combustion emissions. In the last decade, wildfire suppression costs on U.S. federal lands exceeded $1.7 billion, and Canada spent an additional $1 billion. When preparedness and suppression costs are combined with economic losses, the total costs of fires are substantially higher. In 2005, for example, Australia spent $9.4 billion combating fires, or 1.3 percent of the country's entire annual economic output.
+
+Jolly said this is the most prestigious paper he's ever been a part of.
+
+"I believe that it will get a lot of attention," he said. "Mostly because there has been a tremendous number of studies that have been very regional– they might talk about parts of Siberia – but they really haven't had that underlying thread that helps us weave those regional studies together in a global context. This is the first look at being able to do that global analysis. We still have a lot to learn from this study."
+
+***
+
+Steve Running, a regents professor of ecology at the University of Montana's College of Forestry and Conservation, said he was impressed by the thoroughness of the study.
+
+"They've really done a comprehensive job," he said. "When you run three global data sets and they all say the same thing, that gives you more confidence that what you see is real. The fact that they looked at both the length of fire seasons and the amount of land area that is vulnerable to ignition is really kind of a space and time measurement combined, which is another reason why I saw this to be such a rigorous paper."
+
+Running served on the Intergovernmental Panel on Climate Change that was awarded the 2007 Nobel Peace Prize. He said it was important that the paper made no projections into the future, but relied solely on data from the past.
+
+"In my public talks, I always make a point of saying that climate change isn't a future projection, it actually started around 1980," Running explained. "It is interesting that this data set started in 1979. As I look over the past century, I can show three or four data sets that were stable until 1980, and then there is a pretty clear trend of data sets that started in a different trajectory. We saw a clear climate trend developing."
+
+***
+
+Jolly said many studies related to climate change have focused on temperature, whereas some of the most important factors related to fire are humidity and wind.
+
+"So to have the ability to combine all these observed weather changes into things that are meaningful to fire is very cool," he said. "Everybody tries to look for that silver bullet, in terms of how things are changing. What we're able to do here is combine a lot of weather changes into these metrics to see how they are changing over time."
+
+Working at the Missoula Fire Sciences Lab is rewarding because researchers are allowed to be forward-thinking, and their work is used to save lives, according to Jolly.
+
+"At some point I realized that understanding every aspect of fire is important because it has an ecological implication of how we care for the land but also it has a more direct safety implication for us," Jolly said. "If we can understand this fire environment better we can help firefighters better understand conditions to keep the public safe. It's a pretty strong connection."
+
+Jolly said that although the study isn't forward-looking, it's safe to assume that the trend will continue.
+
+"There's no reason to expect that (fire season's won't keep getting longer) without some sort of climate shift," he said.

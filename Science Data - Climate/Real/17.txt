@@ -1,0 +1,108 @@
+What Triggers Ice Ages?
+During the past billion years, the Earth's climate has fluctuated between warm periods—sometimes even completely ice-free—and cold periods, when glaciers scour the continents. In this article, climate scientist Kirk Maasch offers perspective on these historic changes, including the likely causes of the last great ice age—which contrary to common knowledge, we are still in the midst of.
+
+
+Hubbard Glacier in Alaska, like other glaciers worldwide, is retreating. To understand changing climate today, we need a perspective on changes of the past.	Enlarge
+Photo credit: © MaxFX/iStockphoto
+THE NATURE OF ICE AGES
+Ice ages are times when the entire Earth experiences notably colder climatic conditions. During an ice age, the polar regions are cold, there are large differences in temperature from the equator to the pole, and large, continental-size glaciers can cover enormous regions of the Earth.
+
+Ever since the Pre-Cambrian (600 million years ago), ice ages have occurred at widely spaced intervals of geologic time—approximately 200 million years—lasting for millions, or even tens of millions of years. For the Cenozoic period, which began about 70 million years ago and continues today, evidence derived from marine sediments provide a detailed, and fairly continuous, record for climate change. This record indicates decreasing deep-water temperature, along with the build-up of continental ice sheets. Much of this deep-water cooling occurred in three major steps about 36, 15 and 3 million years ago—the most recent of which continues today.
+
+During the present ice age, glaciers have advanced and retreated over 20 times, often blanketing North America with ice. Our climate today is actually a warm interval between these many periods of glaciation. The most recent period of glaciation, which many people think of as the "Ice Age," was at its height approximately 20,000 years ago.
+
+Although the exact causes for ice ages, and the glacial cycles within them, have not been proven, they are most likely the result of a complicated dynamic interaction between such things as solar output, distance of the Earth from the sun, position and height of the continents, ocean circulation, and the composition of the atmosphere.
+
+
+As glaciers spread and retreat, they shape the geology of continents.	Enlarge
+Photo credit: © WGBH Educational Foundation
+CLIMATIC COOLING FROM 60 MILLION YEARS AGO TO PRESENT DAY
+Between 52 and 57 million years ago, the Earth was relatively warm. Tropical conditions actually extended all the way into the mid-latitudes (around northern Spain or the central United States for example), polar regions experienced temperate climates, and the difference in temperature between the equator and pole was much smaller than it is today. Indeed it was so warm that trees grew in both the Arctic and Antarctic, and alligators lived in Ellesmere Island at 78 degrees North.
+
+But this warm period, called the Eocene, was followed by a long cooling trend. Between 52 and 36 million years ago, ice caps developed in East Antarctica, reaching down to sea level in some places. Close to Antarctica, the temperature of the water near the surface dropped to between 5 and 8 degrees Celsius. Between 36 and 20 million years ago the Earth experienced the first of three major cooling steps. At this time a continental-scale temperate ice sheet emerged in East Antarctica. Meanwhile, in North America, the mean annual air temperature dropped by approximately 12 degrees Celsius.
+
+We are still in the midst of the third major cooling period that began around 3 million years ago.
+Between 20 and 16 million years ago, there was a brief respite from the big chill, but this was followed by a second major cooling period so intense that by 7 million years ago southeastern Greenland was completely covered with glaciers, and by 5-6 million years ago, the glaciers were creeping into Scandinavia and the northern Pacific region. The Earth was once more released from the grip of the big chill between 5 and 3 million years ago, when the sea was much warmer around North America and the Antarctic than it is today. Warm-weather plants grew in Northern Europe where today they cannot survive, and trees grew in Iceland, Greenland, and Canada as far north as 82 degrees North.
+
+We are still in the midst of the third major cooling period that began around 3 million years ago, and its effect can be seen around the world, perhaps even in the development of our own species. Around 2 and a half million years ago, tundra-like conditions took over north-central Europe. Soon thereafter, the once-humid environment of Central China was replaced by harsh continental steppe. And in sub-Saharan Africa, arid and open grasslands expanded, replacing more wooded, wetter environments. Many paleontologists believe that this environmental change is linked to the evolution of humankind.
+
+POSSIBLE EXPLANATIONS FOR THE PAST 60 MILLION YEARS OF COOLING
+Climate change on ultra-long time scales (tens of millions of years) are more than likely connected to plate tectonics. Plate motions lead to cycles of ocean basin growth and destruction, known as Wilson cycles, involving continental rifting, seafloor-spreading, subduction, and collision. Several explanations of the latest cooling trend that involve a climate-tectonic connection are summarized below.
+
+GEOGRAPHIC DISTRIBUTION AND SIZE OF CONTINENTS
+Through the course of a Wilson cycle continents collide and split apart, mountains are uplifted and eroded, and ocean basins open and close. The re-distribution and changing size and elevation of continental land masses may have caused climate change on long time scales. Computer climate models have shown that the climate is very sensitive to changing geography. It is unlikely, however, that these large variations in the Earth's geography were the primary cause of the latest long-term cooling trend as they fail to decrease temperatures on a global scale.
+
+Likewise, changing topography cannot, by itself, explain this cooling trend. Computer model experiments performed to test the climate's sensitivity to mountains and high plateaus show that plateau uplift in Tibet and western North America has a small effect on global temperature but cannot explain the magnitude of the cooling trend. Plateau uplift does, however, have a significant impact on climate, including the diversion of North Hemisphere westerly winds and intensification of monsoonal circulation.
+
+
+This schematic shows how westerly winds could be diverted by plateau uplift. Enlarge
+Photo credit: © WGBH Educational Foundation
+GEOMETRY OF OCEAN BASINS
+Another theory explaining these changes in climate involves the opening and closing of gateways for the flow of ocean currents. This theory suggests that the redistribution of heat on the planet by changing ocean circulation can isolate polar regions, cause the growth of ice sheets and sea ice, and increase temperature differences between the equator and the poles.
+
+Ocean modeling experiments suggest that the ocean could not have carried enough heat to the poles to maintain the early warm climates. But atmospheric climate modeling experiments show that even if the ocean did transport enough heat up to the coast of Antarctica to maintain sea surface temperatures at 10 to 15 degrees Celsius, the interior conditions would still be much colder—and this is contrary to the geologic record. It is possible, however, that changes in heat transport caused by variations in ocean gateways may have played a significant role in cooling trends over the last 60 million years, and, in particular, may help explain some of the relatively sudden cooling events.
+
+ATMOSPHERIC CARBON DIOXIDE
+Changes in the concentration of carbon dioxide in the atmosphere are a strong candidate to explain the overall pattern of climatic change. Carbon dioxide influences the mean global temperature through the greenhouse effect. The globally averaged surface temperature for the Earth is approximately 15 degrees Celsius, and this is due largely to the greenhouse effect. Solar radiation entering earth's atmosphere is predominantly short wave, while heat radiated from the Earth's surface is long wave. Water vapor, carbon dioxide, methane, and other trace gases in the Earth's atmosphere absorb this long wave radiation. Because the Earth does not allow this long wave radiation to leave, the solar energy is trapped and the net effect is to warm the Earth. If not for the presence of an atmosphere, the surface temperature on earth would be well below the freezing point of water.
+
+Through a million year period, the average amount of carbon dioxide in the atmosphere is affected by four fluxes: flux of carbon due to (1) metamorphic degassing, (2) weathering of organic carbon, (3) weathering of silicates, (4) burial of organic carbon. Degassing reactions associated with volcanic activity and the combining of organic carbon with oxygen release carbon dioxide into the atmosphere. Conversely, the burial of organic matter removes carbon dioxide from the atmosphere.
+
+
+The inevitable shifting of tectonic plates is also a driver of climate change.	Enlarge
+Photo credit: © WGBH Educational Foundation
+Plate collisions disrupt these carbon fluxes in a variety of ways, some tending to elevate and some tending to lower the atmospheric carbon dioxide level. It has been suggested that the Eocene, the early warm trend 55 million years ago, was caused by elevated atmospheric carbon dioxide and that a subsequent decrease in atmospheric carbon dioxide led to the cooling trend over the past 52 million years. One mechanism proposed as a cause of this decrease in carbon dioxide is that mountain uplift lead to enhanced weathering of silicate rocks, and thus removal of carbon dioxide from the atmosphere.
+
+In addition, the collision of India and Asia led to the uplift of the Tibetan Plateau and the Himalayas. While topography may not be enough to explain the cooling trends, another mechanism may account for changing climate. The uplift may have caused both an increase in the global rate of chemical erosion, as well as erode fresh minerals that are rapidly transported to lower elevations, which are warmer and moister and allow chemical weathering to happen more efficiently. Through these mechanisms, then, it has been hypothesized that the tectonically driven uplift of the Tibetan Plateau and the Himalayas is the prime cause of the post-Eocene cooling trend.During the past billion years, the Earth's climate has fluctuated between warm periods—sometimes even completely ice-free—and cold periods, when glaciers scour the continents. In this article, climate scientist Kirk Maasch offers perspective on these historic changes, including the likely causes of the last great ice age—which contrary to common knowledge, we are still in the midst of.
+
+
+Hubbard Glacier in Alaska, like other glaciers worldwide, is retreating. To understand changing climate today, we need a perspective on changes of the past.	Enlarge
+Photo credit: © MaxFX/iStockphoto
+THE NATURE OF ICE AGES
+Ice ages are times when the entire Earth experiences notably colder climatic conditions. During an ice age, the polar regions are cold, there are large differences in temperature from the equator to the pole, and large, continental-size glaciers can cover enormous regions of the Earth.
+
+Ever since the Pre-Cambrian (600 million years ago), ice ages have occurred at widely spaced intervals of geologic time—approximately 200 million years—lasting for millions, or even tens of millions of years. For the Cenozoic period, which began about 70 million years ago and continues today, evidence derived from marine sediments provide a detailed, and fairly continuous, record for climate change. This record indicates decreasing deep-water temperature, along with the build-up of continental ice sheets. Much of this deep-water cooling occurred in three major steps about 36, 15 and 3 million years ago—the most recent of which continues today.
+
+During the present ice age, glaciers have advanced and retreated over 20 times, often blanketing North America with ice. Our climate today is actually a warm interval between these many periods of glaciation. The most recent period of glaciation, which many people think of as the "Ice Age," was at its height approximately 20,000 years ago.
+
+Although the exact causes for ice ages, and the glacial cycles within them, have not been proven, they are most likely the result of a complicated dynamic interaction between such things as solar output, distance of the Earth from the sun, position and height of the continents, ocean circulation, and the composition of the atmosphere.
+
+
+As glaciers spread and retreat, they shape the geology of continents.	Enlarge
+Photo credit: © WGBH Educational Foundation
+CLIMATIC COOLING FROM 60 MILLION YEARS AGO TO PRESENT DAY
+Between 52 and 57 million years ago, the Earth was relatively warm. Tropical conditions actually extended all the way into the mid-latitudes (around northern Spain or the central United States for example), polar regions experienced temperate climates, and the difference in temperature between the equator and pole was much smaller than it is today. Indeed it was so warm that trees grew in both the Arctic and Antarctic, and alligators lived in Ellesmere Island at 78 degrees North.
+
+But this warm period, called the Eocene, was followed by a long cooling trend. Between 52 and 36 million years ago, ice caps developed in East Antarctica, reaching down to sea level in some places. Close to Antarctica, the temperature of the water near the surface dropped to between 5 and 8 degrees Celsius. Between 36 and 20 million years ago the Earth experienced the first of three major cooling steps. At this time a continental-scale temperate ice sheet emerged in East Antarctica. Meanwhile, in North America, the mean annual air temperature dropped by approximately 12 degrees Celsius.
+
+We are still in the midst of the third major cooling period that began around 3 million years ago.
+Between 20 and 16 million years ago, there was a brief respite from the big chill, but this was followed by a second major cooling period so intense that by 7 million years ago southeastern Greenland was completely covered with glaciers, and by 5-6 million years ago, the glaciers were creeping into Scandinavia and the northern Pacific region. The Earth was once more released from the grip of the big chill between 5 and 3 million years ago, when the sea was much warmer around North America and the Antarctic than it is today. Warm-weather plants grew in Northern Europe where today they cannot survive, and trees grew in Iceland, Greenland, and Canada as far north as 82 degrees North.
+
+We are still in the midst of the third major cooling period that began around 3 million years ago, and its effect can be seen around the world, perhaps even in the development of our own species. Around 2 and a half million years ago, tundra-like conditions took over north-central Europe. Soon thereafter, the once-humid environment of Central China was replaced by harsh continental steppe. And in sub-Saharan Africa, arid and open grasslands expanded, replacing more wooded, wetter environments. Many paleontologists believe that this environmental change is linked to the evolution of humankind.
+
+POSSIBLE EXPLANATIONS FOR THE PAST 60 MILLION YEARS OF COOLING
+Climate change on ultra-long time scales (tens of millions of years) are more than likely connected to plate tectonics. Plate motions lead to cycles of ocean basin growth and destruction, known as Wilson cycles, involving continental rifting, seafloor-spreading, subduction, and collision. Several explanations of the latest cooling trend that involve a climate-tectonic connection are summarized below.
+
+GEOGRAPHIC DISTRIBUTION AND SIZE OF CONTINENTS
+Through the course of a Wilson cycle continents collide and split apart, mountains are uplifted and eroded, and ocean basins open and close. The re-distribution and changing size and elevation of continental land masses may have caused climate change on long time scales. Computer climate models have shown that the climate is very sensitive to changing geography. It is unlikely, however, that these large variations in the Earth's geography were the primary cause of the latest long-term cooling trend as they fail to decrease temperatures on a global scale.
+
+Likewise, changing topography cannot, by itself, explain this cooling trend. Computer model experiments performed to test the climate's sensitivity to mountains and high plateaus show that plateau uplift in Tibet and western North America has a small effect on global temperature but cannot explain the magnitude of the cooling trend. Plateau uplift does, however, have a significant impact on climate, including the diversion of North Hemisphere westerly winds and intensification of monsoonal circulation.
+
+
+This schematic shows how westerly winds could be diverted by plateau uplift. Enlarge
+Photo credit: © WGBH Educational Foundation
+GEOMETRY OF OCEAN BASINS
+Another theory explaining these changes in climate involves the opening and closing of gateways for the flow of ocean currents. This theory suggests that the redistribution of heat on the planet by changing ocean circulation can isolate polar regions, cause the growth of ice sheets and sea ice, and increase temperature differences between the equator and the poles.
+
+Ocean modeling experiments suggest that the ocean could not have carried enough heat to the poles to maintain the early warm climates. But atmospheric climate modeling experiments show that even if the ocean did transport enough heat up to the coast of Antarctica to maintain sea surface temperatures at 10 to 15 degrees Celsius, the interior conditions would still be much colder—and this is contrary to the geologic record. It is possible, however, that changes in heat transport caused by variations in ocean gateways may have played a significant role in cooling trends over the last 60 million years, and, in particular, may help explain some of the relatively sudden cooling events.
+
+ATMOSPHERIC CARBON DIOXIDE
+Changes in the concentration of carbon dioxide in the atmosphere are a strong candidate to explain the overall pattern of climatic change. Carbon dioxide influences the mean global temperature through the greenhouse effect. The globally averaged surface temperature for the Earth is approximately 15 degrees Celsius, and this is due largely to the greenhouse effect. Solar radiation entering earth's atmosphere is predominantly short wave, while heat radiated from the Earth's surface is long wave. Water vapor, carbon dioxide, methane, and other trace gases in the Earth's atmosphere absorb this long wave radiation. Because the Earth does not allow this long wave radiation to leave, the solar energy is trapped and the net effect is to warm the Earth. If not for the presence of an atmosphere, the surface temperature on earth would be well below the freezing point of water.
+
+Through a million year period, the average amount of carbon dioxide in the atmosphere is affected by four fluxes: flux of carbon due to (1) metamorphic degassing, (2) weathering of organic carbon, (3) weathering of silicates, (4) burial of organic carbon. Degassing reactions associated with volcanic activity and the combining of organic carbon with oxygen release carbon dioxide into the atmosphere. Conversely, the burial of organic matter removes carbon dioxide from the atmosphere.
+
+
+The inevitable shifting of tectonic plates is also a driver of climate change.	Enlarge
+Photo credit: © WGBH Educational Foundation
+Plate collisions disrupt these carbon fluxes in a variety of ways, some tending to elevate and some tending to lower the atmospheric carbon dioxide level. It has been suggested that the Eocene, the early warm trend 55 million years ago, was caused by elevated atmospheric carbon dioxide and that a subsequent decrease in atmospheric carbon dioxide led to the cooling trend over the past 52 million years. One mechanism proposed as a cause of this decrease in carbon dioxide is that mountain uplift lead to enhanced weathering of silicate rocks, and thus removal of carbon dioxide from the atmosphere.
+
+In addition, the collision of India and Asia led to the uplift of the Tibetan Plateau and the Himalayas. While topography may not be enough to explain the cooling trends, another mechanism may account for changing climate. The uplift may have caused both an increase in the global rate of chemical erosion, as well as erode fresh minerals that are rapidly transported to lower elevations, which are warmer and moister and allow chemical weathering to happen more efficiently. Through these mechanisms, then, it has been hypothesized that the tectonically driven uplift of the Tibetan Plateau and the Himalayas is the prime cause of the post-Eocene cooling trend.

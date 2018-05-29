@@ -1,0 +1,42 @@
+Decelerating Global Warming !
+Shown below is an updated version of the 2007 IPCC graph which formed the basis for the claim that AGW was accelerating. The same  analysis repeated in 2012  now shows a deceleration in warming, which  demonstrates just how dubious the original claim was.
+
+
+FIG1. The same fits as Fig 2 but done in 2012 (plus one extra for the last 13 years)
+
+The 2007 AR4 report claimed was that global warming was accelerating. This was all based on a novel interpretation of calculus for deriving the second derivative to global temperature data. The end point was fixed but a series of half time intervals were then used to show that the slope of HADCRUT3 temperature anomaly data was increasing with time – see figure 2. The original graph can be found in chapter 3 of  the WG1 AR4 report. To quote from the IPCC report:
+
+“Linear trend fits to the last 25 (yellow), 50 (orange), 100 (purple) and 150 years (red) are shown, and correspond to 1981 to 2005, 1956 to 2005, 1906 to 2005, and 1856 to 2005, respectively. Note that for shorter recent periods, the slope is greater, indicating accelerated warming.”
+
+
+Fig2: Original fits from AR4
+
+I have now redone these same  fits to include new data up to 2012 as shown in Fig 1. The linear fits to the same half periods as before are now as follows.
+
+Period(years) Rate deg.C per decade
+14 -0.046
+25 0.120
+50 0.135
+100 0.074
+150 0.044
+Therefore using the IPCC method of measuring the second derivative, there would now apear to be a deceleration in warming  over the last 25 years ! In fact the sharpest increase in warming throughout the measured data  occurred between 1910 and 1945 with a fitted rate of  0.148 deg.C/decade.Shown below is an updated version of the 2007 IPCC graph which formed the basis for the claim that AGW was accelerating. The same  analysis repeated in 2012  now shows a deceleration in warming, which  demonstrates just how dubious the original claim was.
+
+
+FIG1. The same fits as Fig 2 but done in 2012 (plus one extra for the last 13 years)
+
+The 2007 AR4 report claimed was that global warming was accelerating. This was all based on a novel interpretation of calculus for deriving the second derivative to global temperature data. The end point was fixed but a series of half time intervals were then used to show that the slope of HADCRUT3 temperature anomaly data was increasing with time – see figure 2. The original graph can be found in chapter 3 of  the WG1 AR4 report. To quote from the IPCC report:
+
+“Linear trend fits to the last 25 (yellow), 50 (orange), 100 (purple) and 150 years (red) are shown, and correspond to 1981 to 2005, 1956 to 2005, 1906 to 2005, and 1856 to 2005, respectively. Note that for shorter recent periods, the slope is greater, indicating accelerated warming.”
+
+
+Fig2: Original fits from AR4
+
+I have now redone these same  fits to include new data up to 2012 as shown in Fig 1. The linear fits to the same half periods as before are now as follows.
+
+Period(years) Rate deg.C per decade
+14 -0.046
+25 0.120
+50 0.135
+100 0.074
+150 0.044
+Therefore using the IPCC method of measuring the second derivative, there would now apear to be a deceleration in warming  over the last 25 years ! In fact the sharpest increase in warming throughout the measured data  occurred between 1910 and 1945 with a fitted rate of  0.148 deg.C/decade.

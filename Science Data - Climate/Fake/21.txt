@@ -1,0 +1,54 @@
+Uh, oh – raw data in New Zealand tells a different story than the “official” one.
+The New Zealand Government’s chief climate advisory unit NIWA is under fire for allegedly massaging raw climate data to show a global warming trend that wasn’t there.
+
+The scandal breaks as fears grow worldwide that corruption of climate science is not confined to just Britain’s CRU climate research centre.
+
+In New Zealand’s case, the figures published on NIWA’s [the National Institute of Water and Atmospheric research] website suggest a strong warming trend in New Zealand over the past century:
+
+
+
+The caption to the photo on the NiWA site reads:
+
+From NIWA’s web site — Figure 7: Mean annual temperature over New Zealand, from 1853 to 2008 inclusive, based on between 2 (from 1853) and 7 (from 1908) long-term station records. The blue and red bars show annual differences from the 1971 – 2000 average, the solid black line is a smoothed time series, and the dotted [straight] line is the linear trend over 1909 to 2008 (0.92°C/100 years).
+
+But analysis of the raw climate data from the same temperature stations has just turned up a very different result:
+
+
+
+Gone is the relentless rising temperature trend, and instead there appears to have been a much smaller growth in warming, consistent with the warming up of the planet after the end of the Little Ice Age in 1850.
+
+The revelations are published today in a news alert from The Climate Science Coalition of NZ:
+
+Straight away you can see there’s no slope—either up or down. The temperatures are remarkably constant way back to the 1850s. Of course, the temperature still varies from year to year, but the trend stays level—statistically insignificant at 0.06°C per century since 1850.
+
+Putting these two graphs side by side, you can see huge differences. What is going on?
+
+Why does NIWA’s graph show strong warming, but graphing their own raw data looks completely different? Their graph shows warming, but the actual temperature readings show none whatsoever!
+
+Have the readings in the official NIWA graph been adjusted?
+
+It is relatively easy to find out. We compared raw data for each station (from NIWA’s web site) with the adjusted official data, which we obtained from one of Dr Salinger’s colleagues.
+
+Requests for this information from Dr Salinger himself over the years, by different scientists, have long gone unanswered, but now we might discover the truth.
+
+Proof of man-made warming
+
+What did we find? First, the station histories are unremarkable. There are no reasons for any large corrections. But we were astonished to find that strong adjustments have indeed been made.
+
+About half the adjustments actually created a warming trend where none existed; the other half greatly exaggerated existing warming. All the adjustments increased or even created a warming trend, with only one (Dunedin) going the other way and slightly reducing the original trend.
+
+The shocking truth is that the oldest readings have been cranked way down and later readings artificially lifted to give a false impression of warming, as documented below. There is nothing in the station histories to warrant these adjustments and to date Dr Salinger and NIWA have not revealed why they did this.
+
+One station, Hokitika, had its early temperatures reduced by a huge 1.3°C, creating strong warming from a mild cooling, yet there’s no apparent reason for it.
+
+We have discovered that the warming in New Zealand over the past 156 years was indeed man-made, but it had nothing to do with emissions of CO2—it was created by man-made adjustments of the temperature. It’s a disgrace.
+
+NIWA claim their official graph reveals a rising trend of 0.92ºC per century, which means (they claim) we warmed more than the rest of the globe, for according to the IPCC, global warming over the 20th century was only about 0.6°C.
+
+NIWA’s David Wratt has told Investigate magazine this afternoon his organization denies faking temperature data and he claims NIWA has a good explanation for adjusting the temperature data upward. Wratt says NIWA is drafting a media response for release later this afternoon which will explain why they altered the raw data.
+
+“Do you agree it might look bad in the wake of the CRU scandal?”
+
+“No, no,” replied Wratt before hitting out at the Climate Science Coalition and accusing them of “misleading” people about the temperature adjustments.
+
+Manipulation of raw data is at the heart of recent claims of corrupt scientific practice in climate science, with CRU’s Phil Jones recently claiming old temperature records collected by his organization were “destroyed” or “lost”, meaning researchers can now only access manipulated data.

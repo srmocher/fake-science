@@ -1,0 +1,188 @@
+How missing weather data is a 'life and death' issue
+A shortage of weather data is putting many African countries at an economic disadvantage, experts believe. The BBC's Click team went to Tanzania to meet a tech start-up trying to change the outlook.
+
+Tanzania is at the centre of a meteorological experiment that promises to transform lives across Africa.
+
+Tech start-up, Kukua, wants to introduce hundreds of low-cost weather stations in the country and beyond, to fill what has become a troubling data void.
+
+The World Bank is also backing a scheme being rolled out in Dar es Salaam and elsewhere to spread personal weather monitors.
+
+Without accurate weather data, people don't have evidence of what the weather is doing at ground level across the continent.
+
+ADVERTISEMENT
+
+And this, as former TV weather presenter Peter Gibbs explains (see video), can be a matter of "life and death".
+
+Climate change has brought more extreme weather conditions to many parts of the world and Africa is no exception. Farmers also face less predictable seasons.
+
+"Climate change has made an impact over recent years. At first we lost harvests to droughts and recently to heavy unexpected rain," say smallholder farmers, Agnes Chekira and Asha Ahmadi.
+
+
+Image caption
+Click presenter Dan Simmons meets Tanzanian smallholders Agnes Chekira and Asha Ahmadi
+"If the rains come too early at the end of the longer rainy season our beans rot. But it's harder now to tell what will happen."
+
+A short drive away, also in the Lushoto district of northern Tanzania, we meet Peter, a runner bean grower. Earlier this year he lost his entire crop at the start of the shorter spring rainy season.
+
+"Timing is everything. If you plant the seeds too early and heavy rains come in the first days, the seeds and dry top soil will be washed off the hillside and into the river channels at the bottom of the fields," he says.
+
+Knowing what the weather might do helps him work out when to add pesticides and fertilisers, he explains.
+
+Peter has been one of the first farmers in the region to sign up to a text alert scheme that tells him each day what the weather is expected to do in his area.
+
+
+Image caption
+Runner bean farmer Peter lost $100 worth of seeds in heavy rains
+Kukua provides the data from several of its new weather stations it has installed in the area. They are low-cost - about $2,500 (£1,900) depending on the location of the station.
+
+"Obviously the weather stations themselves don't give us a forecast directly but we are able to send the information they collect back to the forecasters in Europe and provide better, more reliable advice on the ground," says Micha van Winkelhof, Kukua's chief executive.
+
+The World Meteorological Office estimates there are just over 1,100 active weather stations in the whole of Africa - a continent of 54 countries, many with starkly different climates.
+
+And the number of stations has halved over the last 30 years due to inadequate government funding, maintenance costs and limited resources.
+
+Dr Joseph Mukabana, in his recent report for the African Ministerial Conference on Meteorology, says this "poor and sparse" network needs to be expanded to at least 12,000 to provide basic weather services and help manage climate change.
+
+It has created "key gaps in our abilities to predict high-impact weather events", he says.
+
+This dearth of weather stations means that what meteorologists call "ground truthing" - verifying predictions made from satellite data with earth-based evidence - is very difficult.
+
+
+
+Media captionAn automatic weather station for Africa
+One station has to cover an area of 27,000 sq km (10,425 sq miles) on average, meaning that what should be hard evidence is often just "best guess".
+
+Kukua wants to install thousands of weather stations across Africa. They are already in Nigeria, Kenya, Uganda, and Ghana, as well as Tanzania.
+
+The first went up in 2016 and the 100th will be in by the end of 2017, some effectively paid for by large agricultural companies who want to benefit from more accurate information about what's happening on the ground.
+
+"On a large scale we have clients interested in climate change and how that's affecting the cocoa belt in West Africa," says Mr van Winkelhof.
+
+"Firms want to know where to base their operations, not just now but in the future."
+
+Weather data is also useful for renewable energy firms wanting to know where to place their wind farms, and for insurance companies needing to assess flood risk and verify claims.
+
+The US-based International Research Institute for Climate and Society believes that giving farmers access to reliable weather forecasts can help them increase yields by 20%, and sometimes by as much as 80%.
+
+
+More Technology of Business
+Image copyrightGETTY IMAGES
+'I've sat in a changing room in my underwear for ages'
+How 'Asian Tiger cubs' are driving online shopping
+Spreading the word: How to promote your online business
+Somalia's 'touch and feel' e-commerce hit
+
+"That's the difference between eating to survive and sending your kids to school," says Mr van Winkelhof.
+
+He hopes the data might also be useful for national health departments and non-governmental organisations looking to predict outbreaks of cholera and the spread of malaria - diseases closely linked to rainfall, humidity and temperature.
+
+Kukua plans to sell tailored analysis of the data that the weather stations collect to fund further installations. It shares the raw data it collects with each country's national met office.
+
+
+Image caption
+Code for Africa's weather sensors can measure air quality
+David Lemayian, co-director and head of technology at Code for Africa, a not-for-profit organisation campaigning for free access to such information, says he wants everyone to have access to weather and air quality information.
+
+Code for Africa is collaborating with the World Bank to spread small, automated weather sensors across Tanzania, Kenya, and other African countries. By the end of 2017 it hopes to have 300 of the basic-looking units working in four countries.
+
+"Climate change is severe and is happening here in Africa, and we're finding it's women and children who are hurt the most," says Mr Lemayian.
+
+The $35 sensors measure temperature, humidity, and the size of particles found in the air.
+
+"We found the biggest amount of interest has come from mothers wanting to know about the air quality near their homes for the sake of their babies' health," says Mr Lemayian.
+
+There are several other projects aiming to fill the weather data void in Africa. But if commercial organisations keep the data to themselves, campaigners argue, local communities could suffer.
+
+A shortage of weather data is putting many African countries at an economic disadvantage, experts believe. The BBC's Click team went to Tanzania to meet a tech start-up trying to change the outlook.
+
+Tanzania is at the centre of a meteorological experiment that promises to transform lives across Africa.
+
+Tech start-up, Kukua, wants to introduce hundreds of low-cost weather stations in the country and beyond, to fill what has become a troubling data void.
+
+The World Bank is also backing a scheme being rolled out in Dar es Salaam and elsewhere to spread personal weather monitors.
+
+Without accurate weather data, people don't have evidence of what the weather is doing at ground level across the continent.
+
+ADVERTISEMENT
+
+And this, as former TV weather presenter Peter Gibbs explains (see video), can be a matter of "life and death".
+
+Climate change has brought more extreme weather conditions to many parts of the world and Africa is no exception. Farmers also face less predictable seasons.
+
+"Climate change has made an impact over recent years. At first we lost harvests to droughts and recently to heavy unexpected rain," say smallholder farmers, Agnes Chekira and Asha Ahmadi.
+
+
+Image caption
+Click presenter Dan Simmons meets Tanzanian smallholders Agnes Chekira and Asha Ahmadi
+"If the rains come too early at the end of the longer rainy season our beans rot. But it's harder now to tell what will happen."
+
+A short drive away, also in the Lushoto district of northern Tanzania, we meet Peter, a runner bean grower. Earlier this year he lost his entire crop at the start of the shorter spring rainy season.
+
+"Timing is everything. If you plant the seeds too early and heavy rains come in the first days, the seeds and dry top soil will be washed off the hillside and into the river channels at the bottom of the fields," he says.
+
+Knowing what the weather might do helps him work out when to add pesticides and fertilisers, he explains.
+
+Peter has been one of the first farmers in the region to sign up to a text alert scheme that tells him each day what the weather is expected to do in his area.
+
+
+Image caption
+Runner bean farmer Peter lost $100 worth of seeds in heavy rains
+Kukua provides the data from several of its new weather stations it has installed in the area. They are low-cost - about $2,500 (£1,900) depending on the location of the station.
+
+"Obviously the weather stations themselves don't give us a forecast directly but we are able to send the information they collect back to the forecasters in Europe and provide better, more reliable advice on the ground," says Micha van Winkelhof, Kukua's chief executive.
+
+The World Meteorological Office estimates there are just over 1,100 active weather stations in the whole of Africa - a continent of 54 countries, many with starkly different climates.
+
+And the number of stations has halved over the last 30 years due to inadequate government funding, maintenance costs and limited resources.
+
+Dr Joseph Mukabana, in his recent report for the African Ministerial Conference on Meteorology, says this "poor and sparse" network needs to be expanded to at least 12,000 to provide basic weather services and help manage climate change.
+
+It has created "key gaps in our abilities to predict high-impact weather events", he says.
+
+This dearth of weather stations means that what meteorologists call "ground truthing" - verifying predictions made from satellite data with earth-based evidence - is very difficult.
+
+
+
+Media captionAn automatic weather station for Africa
+One station has to cover an area of 27,000 sq km (10,425 sq miles) on average, meaning that what should be hard evidence is often just "best guess".
+
+Kukua wants to install thousands of weather stations across Africa. They are already in Nigeria, Kenya, Uganda, and Ghana, as well as Tanzania.
+
+The first went up in 2016 and the 100th will be in by the end of 2017, some effectively paid for by large agricultural companies who want to benefit from more accurate information about what's happening on the ground.
+
+"On a large scale we have clients interested in climate change and how that's affecting the cocoa belt in West Africa," says Mr van Winkelhof.
+
+"Firms want to know where to base their operations, not just now but in the future."
+
+Weather data is also useful for renewable energy firms wanting to know where to place their wind farms, and for insurance companies needing to assess flood risk and verify claims.
+
+The US-based International Research Institute for Climate and Society believes that giving farmers access to reliable weather forecasts can help them increase yields by 20%, and sometimes by as much as 80%.
+
+
+More Technology of Business
+Image copyrightGETTY IMAGES
+'I've sat in a changing room in my underwear for ages'
+How 'Asian Tiger cubs' are driving online shopping
+Spreading the word: How to promote your online business
+Somalia's 'touch and feel' e-commerce hit
+
+"That's the difference between eating to survive and sending your kids to school," says Mr van Winkelhof.
+
+He hopes the data might also be useful for national health departments and non-governmental organisations looking to predict outbreaks of cholera and the spread of malaria - diseases closely linked to rainfall, humidity and temperature.
+
+Kukua plans to sell tailored analysis of the data that the weather stations collect to fund further installations. It shares the raw data it collects with each country's national met office.
+
+
+Image caption
+Code for Africa's weather sensors can measure air quality
+David Lemayian, co-director and head of technology at Code for Africa, a not-for-profit organisation campaigning for free access to such information, says he wants everyone to have access to weather and air quality information.
+
+Code for Africa is collaborating with the World Bank to spread small, automated weather sensors across Tanzania, Kenya, and other African countries. By the end of 2017 it hopes to have 300 of the basic-looking units working in four countries.
+
+"Climate change is severe and is happening here in Africa, and we're finding it's women and children who are hurt the most," says Mr Lemayian.
+
+The $35 sensors measure temperature, humidity, and the size of particles found in the air.
+
+"We found the biggest amount of interest has come from mothers wanting to know about the air quality near their homes for the sake of their babies' health," says Mr Lemayian.
+
+There are several other projects aiming to fill the weather data void in Africa. But if commercial organisations keep the data to themselves, campaigners argue, local communities could suffer.
