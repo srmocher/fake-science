@@ -11,7 +11,6 @@ from keras.layers.embeddings import Embedding
 from keras.preprocessing import sequence
 from os import listdir
 from os.path import isfile, join
-from pathlib2 import Path
 import numpy as np
 from gensim.models import KeyedVectors
 
